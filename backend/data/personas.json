@@ -1,0 +1,23 @@
+[
+  {
+    "codigo": 1,
+    "nombre": "Pedro",
+    "apellido": "Lopez",
+    "sexo": "Masculino",
+    "estado_civil": "Soltero"
+  },
+  {
+    "codigo": 2,
+    "nombre": "Maria",
+    "apellido": "Cruz",
+    "sexo": "Femenino",
+    "estado_civil": "Casado"
+  },
+  {
+    "codigo": 3,
+    "nombre": "Carlos",
+    "apellido": "Gomez",
+    "sexo": "Masculino",
+    "estado_civil": "Viudo"
+  }
+]
